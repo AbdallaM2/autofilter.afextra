@@ -217,7 +217,7 @@ async def next_page(bot, query):
         ]
     btn.insert(10,
         [
-            InlineKeyboardButton(text="⚡𝐂𝐡𝐞𝐜𝐤 𝐏𝐌⚡", url='t.me/ArrowFlixBot')
+            InlineKeyboardButton(text="⚡𝐂𝐡𝐞𝐜𝐤 𝐏𝐌⚡", url='t.me/ArrowFlix2Bot')
         ]
     )
 
@@ -1281,7 +1281,7 @@ async def auto_filter(client, msg, spoll=False):
         ]
     btn.insert(10,
         [
-            InlineKeyboardButton(text="⚡𝐂𝐡𝐞𝐜𝐤 𝐏𝐌⚡", url='t.me/ArrowFlixBot')
+            InlineKeyboardButton(text="⚡𝐂𝐡𝐞𝐜𝐤 𝐏𝐌⚡", url='t.me/ArrowFlix2Bot')
         ]
     )
 
